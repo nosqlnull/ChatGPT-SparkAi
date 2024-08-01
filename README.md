@@ -1,8 +1,8 @@
 # ChatGPT-Spark-Ai
 ---
-SparkAi系统 新一代 AIGC 系统，一站式 AI B/C 端解决方案 使用 Nestjs 和 Vue3 搭建的 AIGC 商业化运营ChatGPT网站系统和AIGC系统
+## SparkAi系统 新一代 AIGC 系统，一站式 AI B/C 端解决方案 使用 Nestjs 和 Vue3 搭建的 AIGC 商业化运营ChatGPT网站系统和AIGC系统
 
-一站式 AI B/C 端解决方案，AI大模型提问、AI绘画、AI视频生成（最新发布）、文档分析、多模态识图理解、TTS & 语音识别对话、AI换脸、支持AI智能体应用（支持GPTs应用+Prompt自定义预设应用）、插件系统、AI音乐生成、一站式系统！
+### 一站式 AI B/C 端解决方案，AI大模型提问、AI绘画、AI视频生成（最新发布）、文档分析、多模态识图理解、TTS & 语音识别对话、AI换脸、支持AI智能体应用（支持GPTs应用+Prompt自定义预设应用）、插件系统、AI音乐生成、一站式系统！
 ---
 系统官网：[SparkAi系统官方网站](https://www.sparkaigf.com/)
 
@@ -58,7 +58,7 @@ PC端
 
 ![](https://chevereto.sparkaigf.com/images/open/sparkai03.png)
 
-![](https://chevereto.sparkaigf.com/images/open/sparkai04.png)
+![](https://github.com/nosqlnull/ChatGPT-SparkAi/blob/main/SystemPreview/sparkai04.png)
 
 文档分析预览:
 ---
