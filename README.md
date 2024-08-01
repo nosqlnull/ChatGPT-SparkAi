@@ -1,9 +1,11 @@
 # ChatGPT-Spark-Ai
----
-## SparkAi系统 新一代 AIGC 系统，一站式 AI B/C 端解决方案 使用 Nestjs 和 Vue3 搭建的 AIGC 商业化运营ChatGPT网站系统和AIGC系统
 
-### 一站式 AI B/C 端解决方案，AI大模型提问、AI绘画、AI视频生成（最新发布）、文档分析、多模态识图理解、TTS & 语音识别对话、AI换脸、支持AI智能体应用（支持GPTs应用+Prompt自定义预设应用）、插件系统、AI音乐生成、一站式系统！
+SparkAi系统 新一代 AIGC 系统，一站式 AI B/C 端解决方案 使用 Nestjs 和 Vue3 搭建的 AIGC 商业化运营ChatGPT网站系统和AIGC系统
+
+一站式 AI B/C 端解决方案，AI大模型提问、AI绘画、AI视频生成（最新发布）、文档分析、多模态识图理解、TTS & 语音识别对话、AI换脸、支持AI智能体应用（支持GPTs应用+Prompt自定义预设应用）、插件系统、AI音乐生成、一站式系统！
+
 ---
+
 系统官网：[SparkAi系统官方网站](https://www.sparkaigf.com/)
 
 官方演示站： [系统前端](https://ai.sparkaigf.com/)
@@ -44,105 +46,105 @@ SparkAi系统（私有化独立部署）license授权
 - 添加请备注‘SaprkAi’
 
 ---
-![](https://chevereto.sparkaigf.com/images/open/Wechat.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/Wechat.png)
 
 AI大模型提问预览:
 ---
 PC端
 
-![](https://chevereto.sparkaigf.com/images/open/sparkai01.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai01.png)
 
-![](https://chevereto.sparkaigf.com/images/open/sparkai02.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai02.png)
 
 手机端移动H5:
 
-![](https://chevereto.sparkaigf.com/images/open/sparkai03.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai03.png)
 
 ![](https://github.com/nosqlnull/ChatGPT-SparkAi/blob/main/SystemPreview/sparkai04.png)
 
 文档分析预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai05.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai05.png)
 
 多模态识图理解能力预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai06.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai06.png)
 
 TTS & 语音对话预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai07.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai07.png)
 
 AI智能体预览（GPTs应用+Prompt自定义预设应用）:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai08.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai08.png)
 
-![](https://chevereto.sparkaigf.com/images/open/sparkai09.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai09.png)
 
-![](https://chevereto.sparkaigf.com/images/open/0902.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/0902.png)
 
-![](https://chevereto.sparkaigf.com/images/open/0903.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/0903.png)
 
 自定义AI智能体预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai10.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai10.png)
 
 Midjourney专业绘画预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai11.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai11.png)
 
-![](https://chevereto.sparkaigf.com/images/open/sparkai12.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai12.png)
 
 混图生图预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai13.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai13.png)
 
 AI换脸功能预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai14.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai14.png)
 
 Dall-E2/E3/E4绘画预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai15.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai15.png)
 
 AI视频生成预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai16.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai16.png)
 
-![](https://chevereto.sparkaigf.com/images/open/sparkai17.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai17.png)
 
 智能思维导图生成预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai18.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai18.png)
 
 AI画廊预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai19.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai19.png)
 
 支持微信扫码（静默登录）/手机号/邮箱 登录:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai20.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai20.png)
 
 用户个人中心预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai21.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai21.png)
 
 分销推介功能预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai23.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai23.png)
 
 签到功能预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai22.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai22.png)
 
 管理后台（部分）预览:
 ---
-![](https://chevereto.sparkaigf.com/images/open/sparkai-admin01.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai-admin01.png)
 
-![](https://chevereto.sparkaigf.com/images/open/sparkai-admin02.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai-admin02.png)
 
-![](https://chevereto.sparkaigf.com/images/open/sparkai-admin03.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai-admin03.png)
 
-![](https://chevereto.sparkaigf.com/images/open/sparkai-admin04.png)
+![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/sparkai-admin04.png)
 
 ---
 
