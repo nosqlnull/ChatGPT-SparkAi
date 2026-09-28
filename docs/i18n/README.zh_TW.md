@@ -7,19 +7,19 @@
 <a href="../../README.md">简体中文</a> | 繁體中文 | <a href="./README.en.md">English</a>
 
 <p align="center">
-  <a href="https://github.com/nosqlnull/ChatGPT-SparkAi/stargazers"><img src="https://img.shields.io/github/stars/nosqlnull/ChatGPT-SparkAi?color=brightgreen" alt="Stars"></a>
-  <a href="https://docs.sparkaigc.com/log/"><img src="https://img.shields.io/badge/Version-V6.9.6-brightgreen" alt="Version V6.9.6"></a>
-  <a href="https://docs.sparkaigc.com/pro/"><img src="https://img.shields.io/badge/License-Commercial-blue" alt="License Commercial"></a>
+  <a href="https://github.com/nosqlnull/ChatGPT-SparkAi/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/nosqlnull/ChatGPT-SparkAi?color=brightgreen" alt="Stars"></a>
+  <a href="https://docs.sparkaigc.com/log/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Version-V6.9.6-brightgreen" alt="Version V6.9.6"></a>
+  <a href="https://docs.sparkaigc.com/pro/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/License-Commercial-blue" alt="License Commercial"></a>
 </p>
 
 <p align="center">
-  <a href="https://docs.sparkaigc.com"><strong>系統文件 · Docs</strong></a>
+  <a href="https://docs.sparkaigc.com" target="_blank" rel="noopener noreferrer"><strong>系統文件 · Docs</strong></a>
   &nbsp;•&nbsp;
-  <a href="https://test.sparkaigc.com"><strong>演示站 · Live demo</strong></a>
+  <a href="https://test.sparkaigc.com" target="_blank" rel="noopener noreferrer"><strong>演示站 · Live demo</strong></a>
   &nbsp;•&nbsp;
-  <a href="https://docs.sparkaigc.com/pro/"><strong>商業授權 · License</strong></a>
+  <a href="https://docs.sparkaigc.com/pro/" target="_blank" rel="noopener noreferrer"><strong>商業授權 · License</strong></a>
   &nbsp;•&nbsp;
-  <a href="https://docs.sparkaigc.com/log/"><strong>更新日誌 · Changelog</strong></a>
+  <a href="https://docs.sparkaigc.com/log/" target="_blank" rel="noopener noreferrer"><strong>更新日誌 · Changelog</strong></a>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 - 📄 **多類型文件理解**：PDF / Word / PPT / Excel 等檔案上傳識別與線上預覽
 - 💰 **積分與帳戶安全**：積分明細對帳、模型呼叫失敗零扣費、登入裝置與異地識別
 
-更多內容詳見下方「系統核心功能」與[更新日誌](https://docs.sparkaigc.com/log/)。
+更多內容詳見下方「系統核心功能」與<a href="https://docs.sparkaigc.com/log/" target="_blank" rel="noopener noreferrer">更新日誌</a>。
 
 <h2 id="readme-demo">🖥️ 官方演示站</h2>
 
@@ -54,10 +54,10 @@
 
 | 入口 | 地址 |
 |---|---|
-| 系統使用者端 | <https://test.sparkaigc.com> |
-| 管理後端 | <https://test.sparkaigc.com/sparkai/admin> |
+| 系統使用者端 | <a href="https://test.sparkaigc.com" target="_blank" rel="noopener noreferrer">https://test.sparkaigc.com</a> |
+| 管理後端 | <a href="https://test.sparkaigc.com/sparkai/admin" target="_blank" rel="noopener noreferrer">https://test.sparkaigc.com/sparkai/admin</a> |
 | 測試帳號 / 密碼 | `admin` / `123456` |
-| SparkAi 系統文件 | <https://docs.sparkaigc.com> |
+| SparkAi 系統文件 | <a href="https://docs.sparkaigc.com" target="_blank" rel="noopener noreferrer">https://docs.sparkaigc.com</a> |
 
 <h2 id="readme-features">🌟 系統核心功能（授權商業部署版）</h2>
 
@@ -65,7 +65,7 @@
 
 🎉 一站式 AIGC 系統：整合 AI 大模型對話、專業 AI 繪畫、AI 影片生成、AI 智慧體、文件上傳分析、多模態影像理解、TTS & 語音識別對話等能力。
 
-以下按功能模組歸類，並標註對應支援的模型與引入版本（如 `V6.9.6`），各版本完整內容請檢視[更新日誌](https://docs.sparkaigc.com/log/)。具體模型能否使用，取決於所接入上游 API 渠道的支援情況。
+以下按功能模組歸類，並標註對應支援的模型與引入版本（如 `V6.9.6`），各版本完整內容請檢視<a href="https://docs.sparkaigc.com/log/" target="_blank" rel="noopener noreferrer">更新日誌</a>。具體模型能否使用，取決於所接入上游 API 渠道的支援情況。
 
 ### 🔥 近期大版本更新亮點
 **V6.9.x 系列重點更新**
@@ -173,7 +173,7 @@
 
 <h2 id="readme-compare">📊 公益免費商業版 vs 商業授權版</h2>
 
-公益免費商業版（Public Good V2.1.0 · 2026 特別公益重構版，支援會員套餐、線上支付、分銷等商業功能）倉庫：[SparkAi-ChatGPT-AiWeb](https://github.com/nosqlnull/SparkAi-ChatGPT-AiWeb)
+公益免費商業版（Public Good V2.1.0 · 2026 特別公益重構版，支援會員套餐、線上支付、分銷等商業功能）倉庫：<a href="https://github.com/nosqlnull/SparkAi-ChatGPT-AiWeb" target="_blank" rel="noopener noreferrer">SparkAi-ChatGPT-AiWeb</a>
 
 | 功能 | 公益免費商業版（Public Good V2.1.0） | 商業授權版（V6.9.6） |
 |---|---|---|
@@ -202,7 +202,7 @@
 
 <h2 id="readme-preview">🖼️ 介面預覽</h2>
 
-> 截圖與 [商業版系統介紹文件（飛書）](https://bx5gkpqv57j.feishu.cn/docx/EOWUdQ04no9PoBxyp6Ecg3AAnhf) 保持一致，非即時最新，實際效果請以 [官方演示站](https://test.sparkaigc.com) 為準。
+> 截圖與 <a href="https://bx5gkpqv57j.feishu.cn/docx/EOWUdQ04no9PoBxyp6Ecg3AAnhf" target="_blank" rel="noopener noreferrer">商業版系統介紹文件（飛書）</a> 保持一致，非即時最新，實際效果請以 <a href="https://test.sparkaigc.com" target="_blank" rel="noopener noreferrer">官方演示站</a> 為準。
 
 ### 💻 PC 端（部分展示）
 
@@ -348,7 +348,7 @@ GPTs 應用 + Prompt 自定義預設應用；GPTs 支援後臺自定義新增，
   <img src="https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/v6/h5-11.jpg" alt="H5 手機端" width="32%">
 </p>
 
-更多內容請訪問 [官方演示站](https://test.sparkaigc.com) 體驗。
+更多內容請訪問 <a href="https://test.sparkaigc.com" target="_blank" rel="noopener noreferrer">官方演示站</a> 體驗。
 
 ### 💳 微信官方原生支付
 
@@ -366,7 +366,7 @@ GPTs 應用 + Prompt 自定義預設應用；GPTs 支援後臺自定義新增，
 
 ### 🛠️ 系統管理後臺
 
-請訪問 [官方演示站管理後臺](https://test.sparkaigc.com/sparkai/admin) 檢視（測試帳號 `admin` / `123456`）。
+請訪問 <a href="https://test.sparkaigc.com/sparkai/admin" target="_blank" rel="noopener noreferrer">官方演示站管理後臺</a> 檢視（測試帳號 `admin` / `123456`）。
 
 <h2 id="readme-tech">🧱 技術架構與部署環境</h2>
 
@@ -397,9 +397,9 @@ GPTs 應用 + Prompt 自定義預設應用；GPTs 支援後臺自定義新增，
 
 私有化部署版本主要面向有意搭建 AI 平臺的站長與企業，交付使用者端 | 管理端 | 後端三端加密原始碼（閉源）+ 授權碼。
 
-- 📗 商業授權版介紹：<https://docs.sparkaigc.com/pro/>
-- 🗂️ 商業版系統介紹文件與定價（飛書）：[點選檢視](https://bx5gkpqv57j.feishu.cn/docx/EOWUdQ04no9PoBxyp6Ecg3AAnhf)
-- 🧭 部署教程：<https://docs.sparkaigc.com/deploy/baota/process.html>
+- 📗 商業授權版介紹：<a href="https://docs.sparkaigc.com/pro/" target="_blank" rel="noopener noreferrer">https://docs.sparkaigc.com/pro/</a>
+- 🗂️ 商業版系統介紹文件與定價（飛書）：<a href="https://bx5gkpqv57j.feishu.cn/docx/EOWUdQ04no9PoBxyp6Ecg3AAnhf" target="_blank" rel="noopener noreferrer">點選檢視</a>
+- 🧭 部署教程：<a href="https://docs.sparkaigc.com/deploy/baota/process.html" target="_blank" rel="noopener noreferrer">https://docs.sparkaigc.com/deploy/baota/process.html</a>
 - 💬 作者微信：`DjiMain` · 作者 QQ：`501439094`（新增請備註 `SparkAi`）
 
 ![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/Wechat.png)
@@ -408,6 +408,6 @@ GPTs 應用 + Prompt 自定義預設應用；GPTs 支援後臺自定義新增，
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=nosqlnull/ChatGPT-SparkAi&type=Date)](https://star-history.com/#nosqlnull/ChatGPT-SparkAi&Date)
+<a href="https://star-history.com/#nosqlnull/ChatGPT-SparkAi&Date" target="_blank" rel="noopener noreferrer">![Star History Chart](https://api.star-history.com/svg?repos=nosqlnull/ChatGPT-SparkAi&type=Date)</a>
 
 </div>

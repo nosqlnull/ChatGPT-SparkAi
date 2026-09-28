@@ -7,19 +7,19 @@
 <a href="../../README.md">简体中文</a> | <a href="./README.zh_TW.md">繁體中文</a> | English
 
 <p align="center">
-  <a href="https://github.com/nosqlnull/ChatGPT-SparkAi/stargazers"><img src="https://img.shields.io/github/stars/nosqlnull/ChatGPT-SparkAi?color=brightgreen" alt="Stars"></a>
-  <a href="https://docs.sparkaigc.com/en/log/"><img src="https://img.shields.io/badge/Version-V6.9.6-brightgreen" alt="Version V6.9.6"></a>
-  <a href="https://docs.sparkaigc.com/en/pro/"><img src="https://img.shields.io/badge/License-Commercial-blue" alt="License Commercial"></a>
+  <a href="https://github.com/nosqlnull/ChatGPT-SparkAi/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/nosqlnull/ChatGPT-SparkAi?color=brightgreen" alt="Stars"></a>
+  <a href="https://docs.sparkaigc.com/en/log/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Version-V6.9.6-brightgreen" alt="Version V6.9.6"></a>
+  <a href="https://docs.sparkaigc.com/en/pro/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/License-Commercial-blue" alt="License Commercial"></a>
 </p>
 
 <p align="center">
-  <a href="https://docs.sparkaigc.com/en/"><strong>Docs</strong></a>
+  <a href="https://docs.sparkaigc.com/en/" target="_blank" rel="noopener noreferrer"><strong>Docs</strong></a>
   &nbsp;•&nbsp;
-  <a href="https://test.sparkaigc.com"><strong>Live demo</strong></a>
+  <a href="https://test.sparkaigc.com" target="_blank" rel="noopener noreferrer"><strong>Live demo</strong></a>
   &nbsp;•&nbsp;
-  <a href="https://docs.sparkaigc.com/en/pro/"><strong>Commercial License</strong></a>
+  <a href="https://docs.sparkaigc.com/en/pro/" target="_blank" rel="noopener noreferrer"><strong>Commercial License</strong></a>
   &nbsp;•&nbsp;
-  <a href="https://docs.sparkaigc.com/en/log/"><strong>Changelog</strong></a>
+  <a href="https://docs.sparkaigc.com/en/log/" target="_blank" rel="noopener noreferrer"><strong>Changelog</strong></a>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ It provides comprehensive solutions for individual users (ToC), developers (ToD)
 - 📄 **Multi-type document understanding**: upload recognition and online preview of PDF / Word / PPT / Excel and other files
 - 💰 **Points and account security**: points details reconciliation, zero charge on failed model calls, login device and remote-login detection
 
-See "System Core Functions" below and the [Changelog](https://docs.sparkaigc.com/en/log/) for more details.
+See "System Core Functions" below and the <a href="https://docs.sparkaigc.com/en/log/" target="_blank" rel="noopener noreferrer">Changelog</a> for more details.
 
 <h2 id="readme-demo">🖥️ Official Demo</h2>
 
@@ -56,10 +56,10 @@ The only official demo site (all other addresses are unofficial):
 
 | Entry | Address |
 |---|---|
-| User end | <https://test.sparkaigc.com> |
-| Admin backend | <https://test.sparkaigc.com/sparkai/admin> |
+| User end | <a href="https://test.sparkaigc.com" target="_blank" rel="noopener noreferrer">https://test.sparkaigc.com</a> |
+| Admin backend | <a href="https://test.sparkaigc.com/sparkai/admin" target="_blank" rel="noopener noreferrer">https://test.sparkaigc.com/sparkai/admin</a> |
 | Test account / password | `admin` / `123456` |
-| SparkAi documentation | <https://docs.sparkaigc.com/en/> |
+| SparkAi documentation | <a href="https://docs.sparkaigc.com/en/" target="_blank" rel="noopener noreferrer">https://docs.sparkaigc.com/en/</a> |
 
 <h2 id="readme-features">🌟 System Core Functions (Authorized Commercial Deployment Version)</h2>
 
@@ -67,7 +67,7 @@ The only official demo site (all other addresses are unofficial):
 
 🎉 One-stop AIGC system: integrates AI large-model dialogue, professional AI painting, AI video generation, AI agents, document upload and analysis, multimodal image understanding, TTS & voice recognition dialogue, and more.
 
-Features below are grouped by module and labeled with the supported models and the version that introduced them (e.g. `V6.9.6`). See the [Changelog](https://docs.sparkaigc.com/en/log/) for full details of each version. Whether a specific model is available depends on the upstream API channel you connect.
+Features below are grouped by module and labeled with the supported models and the version that introduced them (e.g. `V6.9.6`). See the <a href="https://docs.sparkaigc.com/en/log/" target="_blank" rel="noopener noreferrer">Changelog</a> for full details of each version. Whether a specific model is available depends on the upstream API channel you connect.
 
 ### 🔥 Highlights of Recent Major Updates
 **Key Updates in the V6.9.x Series**
@@ -175,7 +175,7 @@ Features below are grouped by module and labeled with the supported models and t
 
 <h2 id="readme-compare">📊 Public Good Free Commercial Edition vs Commercial License Version</h2>
 
-Public Good Free Commercial Edition (Public Good V2.1.0 · 2026 Special Public-Good Rebuild, with membership packages, online payment, distribution, and other commercial features) repository: [SparkAi-ChatGPT-AiWeb](https://github.com/nosqlnull/SparkAi-ChatGPT-AiWeb)
+Public Good Free Commercial Edition (Public Good V2.1.0 · 2026 Special Public-Good Rebuild, with membership packages, online payment, distribution, and other commercial features) repository: <a href="https://github.com/nosqlnull/SparkAi-ChatGPT-AiWeb" target="_blank" rel="noopener noreferrer">SparkAi-ChatGPT-AiWeb</a>
 
 | Feature | Public Good Free Commercial Edition (Public Good V2.1.0) | Commercial License Version (V6.9.6) |
 |---|---|---|
@@ -204,7 +204,7 @@ Public Good Free Commercial Edition (Public Good V2.1.0 · 2026 Special Public-G
 
 <h2 id="readme-preview">🖼️ Screenshots</h2>
 
-> Screenshots match the [commercial system introduction (Feishu)](https://bx5gkpqv57j.feishu.cn/docx/EOWUdQ04no9PoBxyp6Ecg3AAnhf) and may lag behind the latest release; see the [live demo](https://test.sparkaigc.com) for the actual experience.
+> Screenshots match the <a href="https://bx5gkpqv57j.feishu.cn/docx/EOWUdQ04no9PoBxyp6Ecg3AAnhf" target="_blank" rel="noopener noreferrer">commercial system introduction (Feishu)</a> and may lag behind the latest release; see the <a href="https://test.sparkaigc.com" target="_blank" rel="noopener noreferrer">live demo</a> for the actual experience.
 
 ### 💻 PC (partial)
 
@@ -350,7 +350,7 @@ Time-limited and permanent packages defined in the admin panel, freely combinabl
   <img src="https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/v6/h5-11.jpg" alt="Mobile H5" width="32%">
 </p>
 
-Visit the [live demo](https://test.sparkaigc.com) for more.
+Visit the <a href="https://test.sparkaigc.com" target="_blank" rel="noopener noreferrer">live demo</a> for more.
 
 ### 💳 Official WeChat Pay
 
@@ -368,7 +368,7 @@ Inside the WeChat app, JSAPI pay is used (the WeChat wallet opens directly):
 
 ### 🛠️ Admin panel
 
-See the [live demo admin panel](https://test.sparkaigc.com/sparkai/admin) (test account `admin` / `123456`).
+See the <a href="https://test.sparkaigc.com/sparkai/admin" target="_blank" rel="noopener noreferrer">live demo admin panel</a> (test account `admin` / `123456`).
 
 <h2 id="readme-tech">🧱 Architecture & Deployment Environment</h2>
 
@@ -399,9 +399,9 @@ See the [live demo admin panel](https://test.sparkaigc.com/sparkai/admin) (test 
 
 The private deployment version is mainly for webmasters and companies planning to build an AI platform. It delivers encrypted source code for the user end | admin end | back end (closed source) + an authorization code.
 
-- 📗 Commercial License introduction: <https://docs.sparkaigc.com/en/pro/>
-- 🗂️ Commercial system introduction and pricing (Feishu): [View](https://bx5gkpqv57j.feishu.cn/docx/EOWUdQ04no9PoBxyp6Ecg3AAnhf)
-- 🧭 Deployment tutorial: <https://docs.sparkaigc.com/en/deploy/baota/process.html>
+- 📗 Commercial License introduction: <a href="https://docs.sparkaigc.com/en/pro/" target="_blank" rel="noopener noreferrer">https://docs.sparkaigc.com/en/pro/</a>
+- 🗂️ Commercial system introduction and pricing (Feishu): <a href="https://bx5gkpqv57j.feishu.cn/docx/EOWUdQ04no9PoBxyp6Ecg3AAnhf" target="_blank" rel="noopener noreferrer">View</a>
+- 🧭 Deployment tutorial: <a href="https://docs.sparkaigc.com/en/deploy/baota/process.html" target="_blank" rel="noopener noreferrer">https://docs.sparkaigc.com/en/deploy/baota/process.html</a>
 - 💬 Author WeChat: `DjiMain` · Author QQ: `501439094` (please note `SparkAi` when adding)
 
 ![](https://raw.githubusercontent.com/nosqlnull/ChatGPT-SparkAi/main/SystemPreview/Wechat.png)
@@ -410,6 +410,6 @@ The private deployment version is mainly for webmasters and companies planning t
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=nosqlnull/ChatGPT-SparkAi&type=Date)](https://star-history.com/#nosqlnull/ChatGPT-SparkAi&Date)
+<a href="https://star-history.com/#nosqlnull/ChatGPT-SparkAi&Date" target="_blank" rel="noopener noreferrer">![Star History Chart](https://api.star-history.com/svg?repos=nosqlnull/ChatGPT-SparkAi&type=Date)</a>
 
 </div>
