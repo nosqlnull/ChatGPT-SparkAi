@@ -29,7 +29,8 @@
   <a href="#readme-compare">Comparison</a> •
   <a href="#readme-preview">Screenshots</a> •
   <a href="#readme-tech">Architecture</a> •
-  <a href="#readme-license">Commercial License</a>
+  <a href="#readme-license">Commercial License</a> •
+  <a href="#readme-agpl">License</a>
 </p>
 
 </div>
@@ -49,6 +50,17 @@ It provides comprehensive solutions for individual users (ToC), developers (ToD)
 - 💰 **Points and account security**: points details reconciliation, zero charge on failed model calls, login device and remote-login detection
 
 See "System Core Functions" below and the <a href="https://docs.sparkaigc.com/en/log/" target="_blank" rel="noopener noreferrer">Changelog</a> for more details.
+
+> [!IMPORTANT]
+> - SparkAi is a privately deployable **AI application system** (AIGC website system software), **not an API relay or proxy system**.
+> - **The system itself does not provide any generative AI service, nor any AI large model, model API, or model capability.** The chat, painting, video, and other AI features are provided by third-party model services that the user connects on their own.
+> - Users must obtain API keys, accounts, and interface authorization for upstream model services through legitimate channels, and comply with the upstream providers' terms of service and applicable local laws and regulations.
+> - This project is intended only for lawful AI application building, internal enterprise use, and private deployment. Any illegal use is prohibited.
+
+> [!WARNING]
+> - When the system is deployed as a public-facing AI service, the deployer (operator) is the service provider and bears full responsibility for the site's content and operations. SparkAi only provides the system software and does not take part in operating any site.
+> - Public-facing generative AI services in mainland China must comply with the <a href="http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm" target="_blank" rel="noopener noreferrer">Interim Measures for the Management of Generative AI Services</a> and related rules. Operators must complete filing, content security, real-name verification, log retention, taxation, payment qualification, upstream authorization, and other compliance obligations themselves.
+> - The built-in sensitive-word filtering, content moderation, and other risk-control features are auxiliary tools only and do not replace the operator's compliance obligations.
 
 <h2 id="readme-demo">🖥️ Official Demo</h2>
 
@@ -413,3 +425,11 @@ The private deployment version is mainly for webmasters and companies planning t
 <a href="https://star-history.com/#nosqlnull/ChatGPT-SparkAi&Date" target="_blank" rel="noopener noreferrer">![Star History Chart](https://api.star-history.com/svg?repos=nosqlnull/ChatGPT-SparkAi&type=Date)</a>
 
 </div>
+
+<h2 id="readme-agpl">📜 License</h2>
+
+The public content of this repository (project documentation, system screenshots, etc.) is licensed under the [GNU Affero General Public License v3.0 (AGPLv3)](../../LICENSE).
+
+The SparkAi Commercial License Version (user client / admin console / server) is not included in this repository and is not covered by the license above. A usage license must be obtained through the <a href="https://docs.sparkaigc.com/en/pro/" target="_blank" rel="noopener noreferrer">official Commercial License</a>.
+
+If your organization's policy does not allow AGPLv3-licensed content, or you wish to avoid the open-source obligations of AGPLv3, please email [evenkepler@gmail.com](mailto:evenkepler@gmail.com) or add the author on WeChat: `DjiMain` (note `SparkAi`).

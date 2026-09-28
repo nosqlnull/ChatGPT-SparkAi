@@ -29,7 +29,8 @@
   <a href="#readme-compare">版本对比</a> •
   <a href="#readme-preview">界面预览</a> •
   <a href="#readme-tech">技术架构</a> •
-  <a href="#readme-license">商业授权</a>
+  <a href="#readme-license">商业授权</a> •
+  <a href="#readme-agpl">许可证</a>
 </p>
 
 </div>
@@ -47,6 +48,17 @@
 - 💰 **积分与账户安全**：积分明细对账、模型调用失败零扣费、登录设备与异地识别
 
 更多内容详见下方「系统核心功能」与<a href="https://docs.sparkaigc.com/log/" target="_blank" rel="noopener noreferrer">更新日志</a>。
+
+> [!IMPORTANT]
+> - SparkAi 是一套可私有化部署的 **AI 应用系统**（AIGC 网站系统软件），**不是 API 中转 / 代理系统**。
+> - **系统本身不提供任何生成式人工智能服务，也不提供任何 AI 大模型、模型 API 及模型能力**；系统中的对话、绘画、视频等 AI 功能，均由使用者自行对接的第三方模型服务提供。
+> - 使用者须通过合法途径自行获取上游模型服务的 API Key、账号及接口授权，并遵守上游服务商的服务条款及所在地法律法规。
+> - 本项目仅面向合法合规的 AI 应用搭建、企业内部使用与私有化部署场景，禁止用于任何违法违规用途。
+
+> [!WARNING]
+> - 将本系统部署为面向公众的 AI 服务时，部署方（运营者）即为服务提供者，对站点内容与运营行为承担全部责任；SparkAi 仅提供系统软件，不参与任何站点的运营。
+> - 在中国境内面向公众提供生成式人工智能服务，须遵守 <a href="http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm" target="_blank" rel="noopener noreferrer">《生成式人工智能服务管理暂行办法》</a> 等规定，自行完成备案、内容安全、用户实名、日志留存、税务、支付资质及上游授权等合规义务。
+> - 系统内置的敏感词过滤、内容审核等风控功能仅为辅助工具，不能替代运营者的合规义务。
 
 <h2 id="readme-demo">🖥️ 官方演示站</h2>
 
@@ -411,3 +423,11 @@ GPTs 应用 + Prompt 自定义预设应用；GPTs 支持后台自定义添加，
 <a href="https://star-history.com/#nosqlnull/ChatGPT-SparkAi&Date" target="_blank" rel="noopener noreferrer">![Star History Chart](https://api.star-history.com/svg?repos=nosqlnull/ChatGPT-SparkAi&type=Date)</a>
 
 </div>
+
+<h2 id="readme-agpl">📜 许可证</h2>
+
+本仓库公开内容（项目说明文档、系统界面截图等）采用 [GNU Affero 通用公共许可证 v3.0 (AGPLv3)](./LICENSE) 授权。
+
+SparkAi 商业授权版系统（用户端 / 管理端 / 服务端）不包含在本仓库内，也不适用上述开源许可证，需通过 <a href="https://docs.sparkaigc.com/pro/" target="_blank" rel="noopener noreferrer">官方商业授权</a> 获取使用许可。
+
+如果您所在的组织政策不允许使用 AGPLv3 许可的内容，或您希望规避 AGPLv3 的开源义务，请发送邮件至：[evenkepler@gmail.com](mailto:evenkepler@gmail.com)，或添加作者微信 `DjiMain`（备注 `SparkAi`）。
